@@ -1,6 +1,7 @@
-# Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Good seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## Hey! i'm norkz!
+I'm learning some programming languages like JavaScript, also Node.JS!
 
 ## ⚡ Technologies
 
