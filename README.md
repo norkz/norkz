@@ -1,43 +1,11 @@
-### Hello there, i'm norkz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## I'm learning JavaScript and also Node.JS!
-- 🌱 but im trying to learn everything. 🤣
-- 🥅 2021 Goal: learn javascript and java
+## Hey! i'm norkz!
 
-### 👦 Stats 
-<div align="left">
+## ⚡ Technologies
 
-![profile visit](https://komarev.com/ghpvc/?username=norkz)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=norkz&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
-   
-</div>
-
-### 👨‍💻 Talk with me!: -
-[<img align="left"  alt="f | Twitter" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
-<br />
-<br />
-
-### 👾Languages and Tools:
-<!-- start tools and languages -->
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="35px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-[<img align="left" alt="Node.JS" width="35px"src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg"/>][nodejs]
-[<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
-
-
-
-<!-- start tools and languages -->
-<br />
-<br />
-<br />
-### ❗ Knowledge (27/02/2021)
-
-```
-javascript   █████████████▓░░░░░░░░   60.00% 
-node.js      █████████████████▓░░░░   80.00%
-```
-
-[twitter]:   https://twitter.com/frxsyn
-[github]:    https://github.com/norkz
-[nodejs]:    https://nodejs.org/en/
+![Github Stats](https://github-readme-stats.vercel.app/api?username=norkz&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norkz&hide=TeX&layout=compact)
