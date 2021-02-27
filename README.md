@@ -22,7 +22,10 @@
 <!-- start tools and languages -->
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="35px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+[<img align="left" alt="Node.JS" width="35px"src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg"/>][nodejs]
+[<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
+
+
 
 <!-- start tools and languages -->
 <br />
@@ -36,3 +39,5 @@ node.js      █████████████████▓░░░░ 
 ```
 
 [twitter]:   https://twitter.com/frxsyn
+[github]:    https://github.com/norkz
+[nodejs]:    https://nodejs.org/en/
