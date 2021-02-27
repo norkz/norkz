@@ -7,7 +7,7 @@
 ### 👦 Stats 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
+![profile visit](https://komarev.com/ghpvc/?username=norkz)
 
 [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
