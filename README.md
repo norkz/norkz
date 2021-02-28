@@ -1,5 +1,5 @@
 # Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-<img src="https://64.media.tumblr.com/60a1b8ac58c11e1d0c99d24aea523b78/aeb98b65e7aef56e-40/s250x400/c6d1d7e2e87ab3a1a057f8bd03c6c9b2718ba2df.gifv" width="60px"><img src="https://github.com/snipe/animated-gifs/blob/master/Relax/nothing-to-see-here.gif?raw=true" width="85px"><img src="https://img.wattpad.com/31fb130f7f55c8cc33d1efcbf8b807b39b1567bc/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f484c4b375f2d48394c484d4c35773d3d2d3533353431343532322e313532623865623039313731393362633439393331303630373435312e676966" width="60px">[![](https://malcolmharbour.files.wordpress.com/2011/11/sponsor-button.jpg?w=60)](https://github.com/sponsors/norkz)
+<img src="https://64.media.tumblr.com/60a1b8ac58c11e1d0c99d24aea523b78/aeb98b65e7aef56e-40/s250x400/c6d1d7e2e87ab3a1a057f8bd03c6c9b2718ba2df.gifv" width="60px"><img src="https://github.com/snipe/animated-gifs/blob/master/Relax/nothing-to-see-here.gif?raw=true" width="85px"><img src="https://img.wattpad.com/31fb130f7f55c8cc33d1efcbf8b807b39b1567bc/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f484c4b375f2d48394c484d4c35773d3d2d3533353431343532322e313532623865623039313731393362633439393331303630373435312e676966" width="60px">
 
 I'm learning some programming languages like JavaScript, also Node.JS!
 
@@ -23,3 +23,6 @@ I'm learning some programming languages like JavaScript, also Node.JS!
 ![](https://komarev.com/ghpvc/?username=norkz&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Norkz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/norkz?tab=followers)
 
+## 😎 Things that i use
+
+<a href="https://https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40"></a> <a href="https://www.jetbrains.com/en-us/webstorm/"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40"></a> <a href="https://discord.com/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="40"></a> <a href="https://reddit.com/u/FrXsyN"><img src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" width="40"></a>
