@@ -8,7 +8,7 @@ I'm learning some programming languages like JavaScript, also Node.JS!
 ![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) 
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-@FrXsyN
+/u/FrXsyN
 
 
 ## ⚡ Technologies
