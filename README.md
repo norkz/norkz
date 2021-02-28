@@ -15,6 +15,9 @@ I'm learning some programming languages like JavaScript, also Node.JS!
 ![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=norkz&theme=blue-green)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## 🌟 Profile
+
+
 ![](https://komarev.com/ghpvc/?username=norkz&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Norkz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/norkz?tab=followers)
 
