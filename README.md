@@ -17,4 +17,4 @@ I'm learning some programming languages like JavaScript, also Node.JS!
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=norkz&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norkz)
 
-[GitHub] = 'https://github.com/norkz'
+[GitHub]:'https://github.com/norkz'
