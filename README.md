@@ -1,6 +1,6 @@
 # Good seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <img src="https://64.media.tumblr.com/60a1b8ac58c11e1d0c99d24aea523b78/aeb98b65e7aef56e-40/s250x400/c6d1d7e2e87ab3a1a057f8bd03c6c9b2718ba2df.gifv" width="60px">
-
+<img src="https://github.com/snipe/animated-gifs/blob/master/Relax/nothing-to-see-here.gif?raw=true" width="70px">
 
 ## Hey! i'm norkz!
 I'm learning some programming languages like JavaScript, also Node.JS!
