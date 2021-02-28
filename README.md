@@ -17,4 +17,4 @@ I'm learning some programming languages like JavaScript, also Node.JS!
 
 ![](https://komarev.com/ghpvc/?username=norkz&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Norkz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/norkz?tab=followers)
-[![](https://github.com/natemoo-re/natemoo-re/raw/master/assets/sponsor.svg?sanitize=true?width=50px)](https://github.com/sponsors/norkz)
+
