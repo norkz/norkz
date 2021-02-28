@@ -2,6 +2,7 @@
 
 ## Hey! i'm norkz!
 I'm learning some programming languages like JavaScript, also Node.JS!
+![](https://komarev.com/ghpvc/?username=norkz&color=green)
 
 ## ⚡ Technologies
 
