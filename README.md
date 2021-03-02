@@ -1,5 +1,5 @@
 # Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-<img src="https://media1.tenor.com/images/467d353f7e2d43563ce13fddbb213709/tenor.gif?itemid=12136175" width="110"><img src="https://lh3.googleusercontent.com/proxy/ls3wn96p7tcBa1btcenTHNBniZD-eAZ2MYC2ZkWrIBUr5GzyWznsuT-bnfAWBoFqOEg73Mp3Sdni9ivt2yqkcOKGC68ebh2-0iXi-3m8fKoXOKrNTwR0E-wO" width="10">
+<img src="https://media1.tenor.com/images/467d353f7e2d43563ce13fddbb213709/tenor.gif?itemid=12136175" width="110"><img src="https://github.githubassets.com/images/icons/emoji/trollface.png" width="10">
 
 I'm learning some programming languages like JavaScript, also Node.JS!
 
