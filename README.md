@@ -21,7 +21,7 @@ I'm learning some programming languages like JavaScript, also Node.JS!
 
 ![](https://komarev.com/ghpvc/?username=norkz&color=blue)
 
+## Things that i use
 <details>
-    <summary>**Things that i use**</summary>
    <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40"></a> <a href="https://www.jetbrains.com/en-us/webstorm/"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40"></a> <a href="https://discord.com/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="40"></a> <a href="https://reddit.com/u/FrXsyN"><img src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" width="40"></a><a href="https://sublimetext.com"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="40"></a>
 </details>
